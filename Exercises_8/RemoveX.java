@@ -25,7 +25,7 @@ public class RemoveX {
             System.out.println(result);*/
 
             String result = noX("axxhbyrxerxi");
-            System.out.println(result);
+            System.out.println(result );
 
     }
 }
